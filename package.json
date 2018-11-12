@@ -1,0 +1,11 @@
+{
+  "name": "fis3-deploy-local-deliver-delete",
+  "version": "1.0.0",
+  "description": "Delete the original folder when you package it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cajan",
+  "license": "ISC"
+}
